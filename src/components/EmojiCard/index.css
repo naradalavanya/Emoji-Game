@@ -1,0 +1,18 @@
+.emoji-card {
+  background-color: #ffffff33;
+  border: 2px solid #ffffff30;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.emoji-card:hover {
+  transform: scale(1.1);
+}
+
+.emoji-image {
+  width: 80px;
+  height: 80px;
+}
